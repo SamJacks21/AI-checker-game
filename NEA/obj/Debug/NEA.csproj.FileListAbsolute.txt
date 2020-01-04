@@ -1,0 +1,47 @@
+F:\College work\NEA\NEA\bin\Debug\NEA.exe.config
+F:\College work\NEA\NEA\bin\Debug\NEA.exe
+F:\College work\NEA\NEA\bin\Debug\NEA.pdb
+F:\College work\NEA\NEA\obj\Debug\NEA.Properties.Resources.resources
+F:\College work\NEA\NEA\obj\Debug\NEA.csproj.GenerateResource.cache
+F:\College work\NEA\NEA\obj\Debug\NEA.exe
+F:\College work\NEA\NEA\obj\Debug\NEA.pdb
+F:\College work\NEA\NEA\obj\Debug\NEA__window_.Form1.resources
+F:\COLLEGE WORK\Computer science\NEA\NEA\NEA\bin\Debug\NEA.exe.config
+F:\COLLEGE WORK\Computer science\NEA\NEA\NEA\bin\Debug\NEA.exe
+F:\COLLEGE WORK\Computer science\NEA\NEA\NEA\bin\Debug\NEA.pdb
+F:\COLLEGE WORK\Computer science\NEA\NEA\NEA\obj\Debug\NEA.csprojAssemblyReference.cache
+F:\COLLEGE WORK\Computer science\NEA\NEA\NEA\obj\Debug\NEA__window_.Form1.resources
+F:\COLLEGE WORK\Computer science\NEA\NEA\NEA\obj\Debug\NEA.Properties.Resources.resources
+F:\COLLEGE WORK\Computer science\NEA\NEA\NEA\obj\Debug\NEA.csproj.GenerateResource.cache
+F:\COLLEGE WORK\Computer science\NEA\NEA\NEA\obj\Debug\NEA.csproj.CoreCompileInputs.cache
+F:\COLLEGE WORK\Computer science\NEA\NEA\NEA\obj\Debug\NEA.exe
+F:\COLLEGE WORK\Computer science\NEA\NEA\NEA\obj\Debug\NEA.pdb
+F:\COLLEGE WORK\NEA\NEA\obj\Debug\NEA.csprojResolveAssemblyReference.cache
+C:\Users\Sam Jacks\Desktop\NEA\NEA\bin\Debug\NEA.exe.config
+C:\Users\Sam Jacks\Desktop\NEA\NEA\bin\Debug\NEA.exe
+C:\Users\Sam Jacks\Desktop\NEA\NEA\bin\Debug\NEA.pdb
+C:\Users\Sam Jacks\Desktop\NEA\NEA\obj\Debug\NEA.csprojAssemblyReference.cache
+C:\Users\Sam Jacks\Desktop\NEA\NEA\obj\Debug\NEA__window_.Form1.resources
+C:\Users\Sam Jacks\Desktop\NEA\NEA\obj\Debug\NEA.Properties.Resources.resources
+C:\Users\Sam Jacks\Desktop\NEA\NEA\obj\Debug\NEA.csproj.GenerateResource.cache
+C:\Users\Sam Jacks\Desktop\NEA\NEA\obj\Debug\NEA.csproj.CoreCompileInputs.cache
+C:\Users\Sam Jacks\Desktop\NEA\NEA\obj\Debug\NEA.exe
+C:\Users\Sam Jacks\Desktop\NEA\NEA\obj\Debug\NEA.pdb
+E:\NEA\NEA\bin\Debug\NEA.exe.config
+E:\NEA\NEA\bin\Debug\NEA.exe
+E:\NEA\NEA\bin\Debug\NEA.pdb
+E:\NEA\NEA\obj\Debug\NEA.csprojAssemblyReference.cache
+E:\NEA\NEA\obj\Debug\NEA__window_.Form1.resources
+E:\NEA\NEA\obj\Debug\NEA.Properties.Resources.resources
+E:\NEA\NEA\obj\Debug\NEA.csproj.GenerateResource.cache
+E:\NEA\NEA\obj\Debug\NEA.exe
+E:\NEA\NEA\obj\Debug\NEA.pdb
+C:\Users\jacks\Documents\Computer Science\NEA\NEA\bin\Debug\NEA.exe.config
+C:\Users\jacks\Documents\Computer Science\NEA\NEA\bin\Debug\NEA.exe
+C:\Users\jacks\Documents\Computer Science\NEA\NEA\bin\Debug\NEA.pdb
+C:\Users\jacks\Documents\Computer Science\NEA\NEA\obj\Debug\NEA.csprojAssemblyReference.cache
+C:\Users\jacks\Documents\Computer Science\NEA\NEA\obj\Debug\NEA__window_.Form1.resources
+C:\Users\jacks\Documents\Computer Science\NEA\NEA\obj\Debug\NEA.Properties.Resources.resources
+C:\Users\jacks\Documents\Computer Science\NEA\NEA\obj\Debug\NEA.csproj.GenerateResource.cache
+C:\Users\jacks\Documents\Computer Science\NEA\NEA\obj\Debug\NEA.exe
+C:\Users\jacks\Documents\Computer Science\NEA\NEA\obj\Debug\NEA.pdb
